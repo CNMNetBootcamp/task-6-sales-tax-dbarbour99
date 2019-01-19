@@ -45,7 +45,7 @@ namespace Task6
             Console.ReadLine();
 
         }
-
+        // TODO: Make sure to use public 
         static double gettax(double ordertotal,double taxrate)
         {
             return ordertotal * taxrate;
